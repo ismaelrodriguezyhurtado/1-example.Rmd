@@ -23,3 +23,9 @@ image(volcano, col = viridis(200))
 ```{r}
 image(volcano, col = viridis(200, option = "A"))
 ```
+
+## Editions
+
+```{r}
+library(plyr)
+```
